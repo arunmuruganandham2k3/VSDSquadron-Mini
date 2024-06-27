@@ -10,11 +10,13 @@
 
 # write the c program in leafpad 
    
- # ![Uploading Screenshot 2024-06-26 201620.png…]()
+ # ![Screenshot 2024-06-26 201620](https://github.com/arunmuruganandham2k3/VSDSquadron-Mini/assets/173621896/c6b2b95f-2964-4cfe-a556-1b7dc96a8971)
+
 
 # Compile the c program with the command line 
   
-   # ![Uploading Screenshot 2024-06-27 190525.png…]()
+   # ![Screenshot 2024-06-27 190525](https://github.com/arunmuruganandham2k3/VSDSquadron-Mini/assets/173621896/71b2944b-c202-4390-9b57-a8aa37161cd8)
+
 
 # Execution of c program
    
